@@ -1,0 +1,11 @@
+openapi: 3.0.3
+info:
+  title: MyApp API
+  version: 1.0.0
+  description: API base de MyApp. Actualmente sin endpoints definidos.
+
+servers:
+  - url: http://localhost:8988
+    description: Servidor local Laravel
+
+paths: {}
